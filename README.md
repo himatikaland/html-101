@@ -1,4 +1,4 @@
-# HTML Fundamental by Himatikaland (Biro Development)
+# HTML Fundamental by Himatika UNSIA (Biro Development)
 ## Apa itu HTML?
 HTML (Hypertext Markup Language) adalah bahasa standar pemrogaman untuk membuat halaman website yang diakses melalui internet. "Hypertext" mengacu pada hyperlink yang mungkin terdapat dalam halaman HTML. Bahasa markup mengacu pada cara tag yang digunakan, untuk menentukan tata letak halaman dan elemen di dalam halaman. 
 
@@ -70,8 +70,8 @@ Untuk menulis kode HTML, diperlukan adanya Text Editor. Text Editor tidak hanya 
 
 Beberapa pilihan text Editor:
 
-1. 
-2. 
-3. 
-4. 
-5. 
+1. [Sublime Text] (https://www.sublimetext.com/)
+2. [vscode](https://code.visualstudio.com/)
+3. [Notepad++] (https://notepad-plus-plus.org/)
+4. [Atom] (https://atom.io/)
+5. [Dreamweaver CC] (https://www.adobe.com/products/dreamweaver.html) 
