@@ -1,4 +1,4 @@
-# HTML Fundamental by Himatika UNSIA (Biro Development)
+# HTML Fundamental by Himatika UNSIA
 ## Apa itu HTML?
 HTML (Hypertext Markup Language) adalah bahasa standar pemrogaman untuk membuat halaman website yang diakses melalui internet. "Hypertext" mengacu pada hyperlink yang mungkin terdapat dalam halaman HTML. Bahasa markup mengacu pada cara tag yang digunakan, untuk menentukan tata letak halaman dan elemen di dalam halaman. 
 
