@@ -70,8 +70,8 @@ Untuk menulis kode HTML, diperlukan adanya Text Editor. Text Editor tidak hanya 
 
 Beberapa pilihan text Editor:
 
-1. [Sublime Text] (https://www.sublimetext.com/)
-2. [vscode](https://code.visualstudio.com/)
-3. [Notepad++] (https://notepad-plus-plus.org/)
-4. [Atom] (https://atom.io/)
-5. [Dreamweaver CC] (https://www.adobe.com/products/dreamweaver.html) 
+1. [Sublime Text](https://www.sublimetext.com/)
+2. [Visual Studio Code](https://code.visualstudio.com/)
+3. [Notepad++](https://notepad-plus-plus.org/)
+4. [Atom](https://atom.io/)
+5. [Dreamweaver CC](https://www.adobe.com/products/dreamweaver.html) 
