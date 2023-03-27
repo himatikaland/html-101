@@ -32,4 +32,4 @@ Berikut ini adalah atribut yang dapat digunakan pada tag `<img>`:
 <img src="https://i.pinimg.com/564x/88/8d/b0/888db0062b1b2d0d8e5d208dc7255232.jpg" alt="Kucing" />
 <br>
 <br>
-Pada contoh di atas, gambar kucing ditampilkan dengan menggunakan tag <img> dengan atribut src yang menunjukkan URL dari gambar kucing di atas. Atribut alt juga digunakan untuk memberikan deskripsi alternatif tentang gambar.
+Pada contoh di atas, gambar kucing ditampilkan dengan menggunakan tag `<img>` dengan atribut src yang menunjukkan URL dari gambar kucing di atas. Atribut alt juga digunakan untuk memberikan deskripsi alternatif tentang gambar.
