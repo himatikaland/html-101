@@ -1,8 +1,10 @@
-# Menampilkan Sebuah Image
+#HTML Fundamental By HIMATIKA
+
+## Menampilkan Sebuah Image
 di HTML, untuk menampilkan sebuah image kita bisa menggunakan tag `<img>` <br>
 Tag ini terdiri dari beberapa atribut yang dapat digunakan untuk menentukan sumber gambar, deskripsi alternatif, ukuran gambar, dan lain-lain.
 
-# Atribut
+## Atribut
 Berikut ini adalah atribut yang dapat digunakan pada tag `<img>`:
 
 - src : atribut wajib yang menunjukkan URL atau path dari gambar yang ingin ditampilkan.<br><br>
@@ -14,7 +16,7 @@ Berikut ini adalah atribut yang dapat digunakan pada tag `<img>`:
 - crossorigin : atribut opsional yang menunjukkan apakah gambar harus dimuat dengan atribut CORS. Nilai yang dapat digunakan adalah "anonymous" (untuk memuat gambar tanpa menyertakan kredensial pengguna) atau "use-credentials" (untuk memuat gambar dengan menyertakan kredensial pengguna).<br><br>
 - usemap : atribut opsional yang menunjukkan nama peta gambar (map) yang berisi area-area yang dapat diklik pada gambar tersebut.<br><br>
 
-# Contoh Penggunaan
+## Contoh Penggunaan
 ```
 <!DOCTYPE html>
 <html>
