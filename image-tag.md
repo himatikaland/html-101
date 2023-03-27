@@ -1,4 +1,4 @@
-#HTML Fundamental By HIMATIKA
+# HTML Fundamental By HIMATIKA
 
 ## Menampilkan Sebuah Image
 di HTML, untuk menampilkan sebuah image kita bisa menggunakan tag `<img>` <br>
